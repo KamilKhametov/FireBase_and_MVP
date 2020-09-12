@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620464258797",
+    "firebase_url": "https://mvpfirebase-f590a.firebaseio.com",
+    "project_id": "mvpfirebase-f590a",
+    "storage_bucket": "mvpfirebase-f590a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620464258797:android:5bd0fae080fc195e4196e4",
+        "android_client_info": {
+          "package_name": "com.example.mvpfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620464258797-otknmsmrsvt5ulou0d7f8giu783ikavk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBSjaZgODOGejbnwHlwFgLs-eTWVj4cxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620464258797-otknmsmrsvt5ulou0d7f8giu783ikavk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
